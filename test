@@ -1,0 +1,20 @@
+{
+    "httpMessage": "OK",
+    "userName": "skrapeit",
+    "repositoryName": [
+        "skrape.it"
+    ],
+    "firstThreeHrefs": [
+        "https://github.githubassets.com",
+        "https://avatars.githubusercontent.com",
+        "https://github-cloud.s3.amazonaws.com"
+    ],
+    "overviewLink": "/skrapeit",
+    "firstThreeImageSources": [
+        "https://avatars.githubusercontent.com/u/46688980?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/46688980?v=4",
+        "https://avatars.githubusercontent.com/u/42172673?s=70&v=4"
+    ],
+    "title": "skrapeit · GitHub",
+    "starCount": "401"
+}
